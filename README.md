@@ -1,1 +1,1 @@
-# RS-Jewellers
+RS Jewellers - A Commercial site for online jewellery sale on demand
